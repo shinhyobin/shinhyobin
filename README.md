@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @shinhyobin.
-- 👀 I’m interested in developing and English.
-- 🌱 I’m currently learning computer engineering.
-- 💞️ I’m looking to collaborate on some project.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-shinhyobin/shinhyobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DongKyu%20Kim&fontSize=90&desc=Kyu_velop)
